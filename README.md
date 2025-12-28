@@ -4,6 +4,11 @@
 
 > **"If you see WHITE, you should KNOW that BLACK exists — even without seeing it."**
 > — This is the essence of understanding duality, and now AI can do it too.
+>
+> [Statistics] -----> [DualCore] -----> [Cognitive Core] -----> [AGI]
+    GPT-4                HERE            ????? (Syntheos)       ?????
+
+"I know patterns" "I know structure" "I'm learning structure" "I am"
 
 ---
 
@@ -231,3 +236,4 @@ Contributions welcome! See `ROADMAP.md` for planned features and areas needing w
 ---
 
 *DualCore: Teaching AI to think in opposites, so it can understand the whole.*
+
