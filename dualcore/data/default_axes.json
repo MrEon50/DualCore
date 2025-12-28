@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Simple-Complex",
+        "pole_a": [
+            "simple",
+            "basic",
+            "elementary",
+            "straightforward",
+            "primitive"
+        ],
+        "pole_b": [
+            "complex",
+            "intricate",
+            "sophisticated",
+            "elaborate",
+            "multi-layered"
+        ],
+        "description": "Structural and relational complexity"
+    },
+    {
+        "name": "Concrete-Abstract",
+        "pole_a": [
+            "physical",
+            "tangible",
+            "material",
+            "object",
+            "solid"
+        ],
+        "pole_b": [
+            "abstract",
+            "theoretical",
+            "conceptual",
+            "metaphysical",
+            "idea"
+        ],
+        "description": "Level of conceptual abstraction"
+    },
+    {
+        "name": "Local-Global",
+        "pole_a": [
+            "nearby",
+            "specific",
+            "limited",
+            "individual",
+            "point"
+        ],
+        "pole_b": [
+            "universal",
+            "worldwide",
+            "global",
+            "infinite",
+            "system-wide"
+        ],
+        "description": "Scope of influence and relevance"
+    },
+    {
+        "name": "Specific-General",
+        "pole_a": [
+            "unique",
+            "particular",
+            "detailed",
+            "niche",
+            "precise"
+        ],
+        "pole_b": [
+            "universal",
+            "common",
+            "generic",
+            "broad",
+            "standard"
+        ],
+        "description": "Degree of detail vs universal applicability"
+    },
+    {
+        "name": "Fast-Slow",
+        "pole_a": [
+            "instant",
+            "rapid",
+            "sudden",
+            "immediate",
+            "lightning"
+        ],
+        "pole_b": [
+            "gradual",
+            "lazy",
+            "eternal",
+            "crawling",
+            "long-term"
+        ],
+        "description": "Temporal dynamics and speed"
+    },
+    {
+        "name": "Analytic-Intuitive",
+        "pole_a": [
+            "logical",
+            "systematic",
+            "calculated",
+            "rational",
+            "deductive"
+        ],
+        "pole_b": [
+            "instinctive",
+            "gut-feeling",
+            "spontaneous",
+            "subconscious",
+            "visceral"
+        ],
+        "description": "Method of knowledge processing"
+    },
+    {
+        "name": "Static-Dynamic",
+        "pole_a": [
+            "fixed",
+            "unchanging",
+            "permanent",
+            "rigid",
+            "stable"
+        ],
+        "pole_b": [
+            "fluid",
+            "evolving",
+            "shifting",
+            "volatile",
+            "active"
+        ],
+        "description": "Stability vs continuous change"
+    },
+    {
+        "name": "Controlled-Automatic",
+        "pole_a": [
+            "deliberate",
+            "intended",
+            "conscious",
+            "manual",
+            "planned"
+        ],
+        "pole_b": [
+            "reflexive",
+            "habitual",
+            "autonomous",
+            "involuntary",
+            "subconscious"
+        ],
+        "description": "Deliberate process vs spontaneous reaction"
+    },
+    {
+        "name": "Certain-Uncertain",
+        "pole_a": [
+            "proven",
+            "absolute",
+            "fact",
+            "guaranteed",
+            "confirmed"
+        ],
+        "pole_b": [
+            "random",
+            "vague",
+            "doubtful",
+            "chaotic",
+            "unpredictable"
+        ],
+        "description": "Epistemic confidence"
+    },
+    {
+        "name": "True-False",
+        "pole_a": [
+            "veracity",
+            "authentic",
+            "accurate",
+            "correct",
+            "honest"
+        ],
+        "pole_b": [
+            "deception",
+            "fake",
+            "error",
+            "lie",
+            "fictional"
+        ],
+        "description": "Veracity and logical correctness"
+    },
+    {
+        "name": "Good-Bad",
+        "pole_a": [
+            "benevolent",
+            "virtuous",
+            "helpful",
+            "saintly",
+            "compassionate"
+        ],
+        "pole_b": [
+            "malicious",
+            "harmful",
+            "wicked",
+            "evil",
+            "toxic"
+        ],
+        "description": "Moral valence and ethical value"
+    },
+    {
+        "name": "Beautiful-Ugly",
+        "pole_a": [
+            "harmonious",
+            "elegant",
+            "exquisite",
+            "stunning",
+            "divine"
+        ],
+        "pole_b": [
+            "grotesque",
+            "hideous",
+            "revolting",
+            "vile",
+            "monstrous"
+        ],
+        "description": "Aesthetic quality and harmony"
+    }
+]
